@@ -1,4 +1,4 @@
-# The Sale Price Of Houses
+# DS Borg Homes 
 
 **The Goal:**
  The goal of this project is to predict the sale price of homes based off of the zip code the home is located in.
@@ -21,7 +21,7 @@ Here at DS Borg Homes our team has spent the last year developing a model that w
 
 *The following link is the csv file of the original dataset we used:*
 
-https://github.com/ezgigm/Project_2/blob/master/Data/kc_house_data.csv
+https://github.com/bmor2552/Project_2/blob/master/Data/kc_house_data.csv
 
 
 **The Plan:**
@@ -47,12 +47,12 @@ We also found that the missing values were represented with a ? or a NaN, this w
 
 *The following csv file is where the cleaned data of the needed columns are found:*
 
-https://github.com/ezgigm/Project_2/blob/master/Data/clean_data.csv
+https://github.com/bmor2552/Project_2/blob/master/Data/clean_data.csv
 
 
 *The following notebook shows the cleaning & exploring of the data as well as our findings from doing so:*
 
-https://github.com/ezgigm/Project_2/blob/master/Jupyter%20Notebooks/STEP_1_Cleaning%20and%20Exploring%20Data.ipynb
+ https://github.com/bmor2552/Project_2/blob/master/Jupyter%20Notebooks/STEP_1_Cleaning%20and%20Exploring%20Data.ipynb
 
 
 # Modeling The Data
@@ -147,7 +147,7 @@ https://pygam.readthedocs.io/en/latest/
 
 *The following notebook shows the modeling process of the data as well as our findings from doing so:*
 
-https://github.com/ezgigm/Project_2/blob/master/Jupyter%20Notebooks/STEP_2_Modeling.ipynb
+https://github.com/bmor2552/Project_2/blob/master/Jupyter%20Notebooks/STEP_2_Modeling.ipynb
 
 
 # Findings
@@ -184,39 +184,38 @@ When it comes to the data in the future, we will collect more recent data past t
  
  Original csv file of dataset
 
-https://github.com/ezgigm/Project_2/blob/master/Data/kc_house_data.csv
+https://github.com/bmor2552/Project_2/blob/master/Data/kc_house_data.csv
 
 Column names & their description
 
-https://github.com/ezgigm/Project_2/blob/master/Data/ColumnNames.md
+https://github.com/bmor2552/Project_2/blob/master/Data/ColumnNames.md
 
 
 Cleaned csv file of data set
 
-https://github.com/ezgigm/Project_2/blob/master/Data/clean_data.csv
+https://github.com/bmor2552/Project_2/blob/master/Data/clean_data.csv
 
 
 ## Notebooks
  
  **Cleaning & exploring the data and creating csv file** 
  
- 
-https://github.com/ezgigm/Project_2/blob/master/Jupyter%20Notebooks/STEP_1_Cleaning%20and%20Exploring%20Data.ipynb
+ https://github.com/bmor2552/Project_2/blob/master/Jupyter%20Notebooks/STEP_1_Cleaning%20and%20Exploring%20Data.ipynb
  
  
  **Modeling the data**
  
- https://github.com/ezgigm/Project_2/blob/master/Jupyter%20Notebooks/STEP_2_Modeling.ipynb
+ https://github.com/bmor2552/Project_2/blob/master/Jupyter%20Notebooks/STEP_2_Modeling.ipynb
  
  
  ## Photos for READ.me
  
- https://github.com/ezgigm/Project_2/tree/master/README_ScreenShots
+ https://github.com/bmor2552/Project_2/blob/master/README_ScreenShots/Screen%20Shot%202020-03-26%20at%208.08.58%20PM.png
  
 
 ## Presentation
 
-https://github.com/ezgigm/Project_2/blob/master/DS%20Borge%20Homes.pdf
+https://github.com/bmor2552/Project_2/blob/master/DS%20Borge%20Homes.pdf
 
  
 
