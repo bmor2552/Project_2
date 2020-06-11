@@ -1,5 +1,7 @@
 # DS Borg Homes 
 
+![Shacking hands in front of homes](https://media-public.canva.com/MADQ5ew6_QY/1/thumbnail_large-1.jpg)
+
 **The Goal:**
  The goal of this project is to predict the sale price of homes based off of the zip code the home is located in.
 
