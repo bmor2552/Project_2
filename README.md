@@ -234,7 +234,7 @@ https://info.kingcounty.gov/assessor/DataDownload/default.aspx
 
 **Ezgi Gumusbas:** https://github.com/ezgigm
 
-**Boi Moriba:** https://github.com/bmor2552
+**Boi Moriba:** https://github.com/bmor2552?tab=stars
 
 
 
